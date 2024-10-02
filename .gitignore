@@ -17,6 +17,8 @@ Thumbs.db
 
 #ignore db
 init.sql
+/python/src/auth/manifests/secret.yaml
+
 
 #ignore venv
 venv/
